@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int maing(){
+int main(){
     printf("hello world!");
+    int x=6;
+    printf("%d",x);
     return 0;
 }
